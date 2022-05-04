@@ -2,7 +2,7 @@
 
 ❤️ I love learning new things 
 
-⭐ My dream is to become a Front-end Developer
+⭐ In the future, I want to become a Full Stack Developer
 
 ## 👨‍💻 Languages and other technologies 
 
