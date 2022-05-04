@@ -30,7 +30,7 @@
 
 ## 📊 Statistics 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalpluzek&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalpluzek&layout=compact)
  
 
 
